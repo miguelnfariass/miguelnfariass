@@ -1,4 +1,4 @@
-# Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+# Olá!                 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
 Meu nome é Miguel Nascimento Farias, tenho grande interesse em me tornar um desenvolvedor. Minha jornada no mundo da programação começou ano passado e desde então tenho me dedicado a aprimorar minhas habilidades e conhecimentos.
 
@@ -17,3 +17,4 @@ Meu nome é Miguel Nascimento Farias, tenho grande interesse em me tornar um des
  
  <br/>
  <br>
+

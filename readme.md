@@ -23,7 +23,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNISAL - Campinas e e
 # Contato
 <div> E-mail: migueln.fariass@gmail.com </div> 
 <div> LinkedIn: https://www.linkedin.com/in/miguelnfarias/ </div> 
-<div> GitHub: https://github.com/miguelnfariass </div> 
 
 # Licença
 Todos os projetos que compartilho estão sob a licença MIT, a menos que especificado de outra forma nos próprios repositórios.

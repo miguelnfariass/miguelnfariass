@@ -1,4 +1,4 @@
-![image](https://github.com/miguelnfariass/miguelnfariass/assets/112038531/2c5f7921-7c82-4a3a-baac-849f83b9b807)# Olá!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+# Olá!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
 Sou Miguel Farias e tenho 21 anos! Tenho grande interesse em me tornar um desenvolvedor. Minha jornada no mundo da programação começou ano passado e desde então tenho me dedicado a aprimorar minhas habilidades e conhecimentos.
 

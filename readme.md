@@ -1,14 +1,14 @@
 # Olá!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
-Sou Miguel Farias e tenho 21 anos! Tenho grande interesse em me tornar um desenvolvedor. Minha jornada no mundo da programação começou ano passado e desde então tenho me dedicado a aprimorar minhas habilidades e conhecimentos.
+Sou Miguel Farias e tenho 21 anos! Tenho grande interesse em me tornar um desenvolvedor backend. Minha jornada no mundo da programação começou ano passado e desde então tenho me dedicado a aprimorar minhas habilidades e conhecimentos.
 
 # Sobre Mim
 Sou estudante de Análise e Desenvolvimento de Sistemas na UNISAL - Campinas e estou constantemente aprimorando minhas habilidades em programação. Possuo experiência em tecnologias como JavaScript, HTML e CSS.
 
 # Interesses
 
-- Desenvolvimento web com JavaScript
-- Back-end development
+- Node.js
+- Back-end
 - Aplicações web interativas
 
 # Tech Stack

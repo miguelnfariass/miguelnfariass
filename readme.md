@@ -9,7 +9,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNISAL - Campinas e e
 
 - Node.js
 - Back-end
-- Aplicações web interativas
 
 # Tech Stack
 

@@ -1,6 +1,6 @@
 # Olá!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
-Sou Miguel Farias e tenho 21 anos! Tenho grande interesse em me tornar um desenvolvedor backend. Minha jornada no mundo da programação começou ano passado e desde então tenho me dedicado a aprimorar minhas habilidades e conhecimentos.
+Sou **Miguel Farias**, tenho 23 anos e estou construindo minha trajetória na área de tecnologia com foco em **Análise de Dados e Business Intelligence**.
 
 # Sobre Mim
 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (UNICSUL). Minha jornada na tecnologia começou em 2021, quando tive os primeiros contatos com conteúdos introdutórios de Python. Fiquei fascinado pelas inúmeras possibilidades que a programação oferece e, desde então, decidi seguir nessa área.
